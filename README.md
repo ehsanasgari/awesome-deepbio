@@ -37,6 +37,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2015-10** | Deep Learning for Drug-Induced Liver Injury | *Youjun Xu, Ziwei Dai, Fangjin Chen, Shuaishi Gao, Jianfeng Pei, and Luhua Lai* | [ASC Journal of Chemical Information and Modeling](https://dx.doi.org/10.1021/acs.jcim.5b00238)
 
+- **2015-11** | Continuous Distributed Representation of Biological Sequences for Deep Proteomics and Genomics  | *Ehsaneddin Asgari, Mohammad R.K. Mofrad* | [PLOSE ONE](http://dx.doi.org/10.1371/journal.pone.0141287)
+
 - **2015-11** | De novo identification of replication-timing domains in the human genome by deep learning | *Feng Liu, Chao Ren, Hao Li, Pingkun Zhou, Xiaochen Bo and Wenjie Shu* | [Bioinformatics](https://dx.doi.org/10.1093/bioinformatics/btv643)
 
 - **2016-01** | Learning a hierarchical representation of the yeast transcriptomic machinery using an autoencoder model | *Lujia Chen, Chunhui Cai, Vicky Chen and Xinghua Lu* | [BMC Bioinformatics](https://dx.doi.org/10.1186/s12859-015-0852-1)
